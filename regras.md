@@ -13,6 +13,10 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/micro-technologi
 
 * O regimento do portal Micro Technologies é exercido pelos Moderadores e o Administrador.
 
+* Ao promover qualquer tipo de interação com este portal, o usuário automaticamente concorda ter lido e estar ciêntes de todas as regras aqui descritas.
+
+* O Portal não se responsabiliza por nenhum infringimento de direitos autoriais e/ou das leis vigentes do país, realizado por membros, sendo estes completamente responsáveis pelo que fazem. Faremos o possível para evitar que isto ocorra, e aplicaremos as punições internas cabíveis.
+
 * Constituem bens do Portal todas as coisas nele incluso, com excessão das coisas onde fica explicitamente definido o contrário, por documento de licença.
 
 * O Portal, mediante regimento interno, poderá para fins administrativos criar, alterar ou suprimir Categorias/Repositórios, sem aviso prévio observado o regimento atual.
