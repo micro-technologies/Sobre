@@ -49,17 +49,21 @@ Como Markdown será amplamente utilizado aqui, talvez seja uma boa ideia utiliza
 
 Lembre-se de que se você não selecionou uma licença para qualquer fim que seja, isso basicamente significa que as pessoas não estão permitidas de reproduzir, distribuir ou criar trabalhos derivados dos seus.
 
-A licença [Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons) é recomendada para o propósito dessa organização. Não são recomendads licenças de código como MIT, BSD, GPL, e etc.
+A licença [Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons) é recomendada para o propósito dessa organização. Não são recomendadas licenças de código como MIT, BSD, GPL, e etc.
 
-Lembre-se também de respeitar e manter as licenças e direitos derivados de recursos que venha a utilizar. Não pretendemos inflingir **propositalmente** nenhum direito autoral e sempre que possível, pretendemos nos manter alinhados as [normas brasileiras de publicação e criação de conteúdo técnico](http://www.gazetadopovo.com.br/educacao/vida-na-universidade/pesquisa-e-tecnologia/regras-da-abnt-veja-as-normas-para-monografias-e-trabalhos-academicos-24m183ly0hqo75i0qrgiovpla). 
+Lembre-se também de respeitar e manter as licenças e direitos derivados de recursos que venha a utilizar. Não pretendemos infringir **propositalmente** nenhum direito autoral e sempre que possível, pretendemos nos manter alinhados as [normas brasileiras de publicação e criação de conteúdo técnico](http://www.gazetadopovo.com.br/educacao/vida-na-universidade/pesquisa-e-tecnologia/regras-da-abnt-veja-as-normas-para-monografias-e-trabalhos-academicos-24m183ly0hqo75i0qrgiovpla). 
 
-Para tirar suas dúvidas em relação a licenças recomendamos [este FAQ](https://br.creativecommons.org/faq/) da CC.
+Para tirar suas dúvidas em relação a licenças, recomendamos [este FAQ](https://br.creativecommons.org/faq/) da CC.
 
 ## Objetivos específicos do portal
 
 Uma maneira interessante de facilitar o acesso ao conhecimento é selecionar alguns livros importantes que estão em [domínio público](https://pt.wikipedia.org/wiki/Dom%C3%ADnio_p%C3%BAblico), e disponibilizar nos mais diversos formatos, inclusive, pela Web, como [neste exemplo](http://samypesse.gitbooks.io/how-to-create-an-operating-system/content/Chapter-1/index.html) utilizando o [GitBook](https://github.com/GitbookIO/gitbook).
 
-[Este aqui](https://openlibrary.org/) é outro exemplo deste objetivo, fiel a causa Open Access que falaremos posteriormente ainda neste documento. No entanto a Open Library disponibiliza em sua maioria, material em inglês, não servindo primariamente a missão do nosso projeto. Ainda neste ponto, um outro objetivo dentro do projeto, seria fazer a [tradução de conteúdo livre](https://github.com/micro-technologies/drive/blob/master/jack-andraka.md) em outro idioma para o português brasileiro.
+[Este aqui](https://openlibrary.org/) é outro exemplo deste objetivo, fiel a causa Open Access que falaremos posteriormente ainda neste documento. 
+
+No entanto a Open Library disponibiliza majoritariamente material em inglês, não servindo primariamente a missão do nosso projeto. 
+
+Ainda neste ponto, um outro objetivo dentro do projeto, seria fazer a [tradução de conteúdo livre](https://github.com/micro-technologies/drive/blob/master/jack-andraka.md) em outro idioma para o português brasileiro.
 
 Tendencias que apoiamos:
 * [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
