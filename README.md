@@ -29,10 +29,19 @@ Seguindo o princípio de clareza, apoiamos a escrita e distribuição de [guias 
 
 Pessoas contribuem com valores, e um projeto sem pessoas, por mais bem estruturado, é um projeto sem valor. O aperfeiçoamento do projeto é constante e depende apenas da dedicação e interesse de cada um.
 
+### Regras
+
+Temos uma seção específica para as regras, você pode conferir [clicando aqui.](https://github.com/micro-technologies/sobre/blob/master/regras.md)
+
 ### Convenções
+
 ...
 
-### Escolhendo uma licença apropriada
+### Dicas
+
+Como Markdown será amplamente utilizado aqui, talvez seja uma boa ideia utilizar um [editor colaborativo online de markdown com pré-visualização.](https://hackmd.io/) (ufa, achei que não ia parar de escrever)
+
+### Escolhendo uma licença apropriada para seu projeto
 
 Lembre-se de que se você não selecionou uma licença para qualquer fim que seja, isso basicamente significa que as pessoas não estão permitidas de reproduzir, distribuir ou criar trabalhos derivados dos seus.
 
@@ -42,7 +51,7 @@ Lembre-se também de respeitar e manter as licenças e direitos derivados de rec
 
 Para tirar suas dúvidas em relação a licenças recomendamos [este FAQ](https://br.creativecommons.org/faq/) da CC.
 
-## Objetivos específicos
+## Objetivos específicos do portal
 
 Uma maneira interessante de facilitar o acesso ao conhecimento é selecionar alguns livros importantes que estão em [domínio público](https://pt.wikipedia.org/wiki/Dom%C3%ADnio_p%C3%BAblico), e disponibilizar nos mais diversos formatos, inclusive, pela Web, como [neste exemplo](http://samypesse.gitbooks.io/how-to-create-an-operating-system/content/Chapter-1/index.html) utilizando o [GitBook](https://github.com/GitbookIO/gitbook).
 
