@@ -28,6 +28,7 @@ Seguindo o princípio de clareza, apoiamos a escrita e distribuição de [guias 
 Pessoas contribuem com valores, e um projeto sem pessoas, por mais bem estruturado, é um projeto sem valor. O aperfeiçoamento do projeto é constante e depende apenas da dedicação e interesse de cada um.
 
 ### Convenções
+...
 
 ### Escolhendo uma licença apropriada
 
