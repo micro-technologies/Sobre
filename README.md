@@ -2,7 +2,7 @@
 
 Seja bem vindo(a)!
 
-Em resumo a µTechnologies é uma iniciativa sem fins lucrativos que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. A ideia é organizar, criar, apontar e manter conteudos tecnico-ciêntfícos para falantes de portugues brasileiro.
+Em resumo a µTechnologies é uma iniciativa sem fins lucrativos que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. A ideia é organizar, criar, apontar e manter conteudos tecnico-ciêntfícos para falantes de português brasileiro.
 
 Pretendemos cumprir este objetivo utilizando a plataforma do GitHub, pois torna possível unificar discussões, pessoas, e código em um só local, de forma que facilite a busca e a relacão entre esses.
 
@@ -15,7 +15,9 @@ Alguns dos pontos fortes do GitHub neste objetivo são:
 A estrutura desta organização foi espelhada [neste excelente projeto.](http://frontendbr.com.br/)
 
 ## Filosofia
-Temos apenas uma simples porém ambiciosa filosofia, prezamos pelo minimalismo, simplicidade, clareza e frugalidade. Virtudes que humildemente espelhamos de organizações como http://suckless.org/ e https://www.archlinux.org/. Você pode dar uma olhada [//nestes](https://bbs.archlinux.org/) [//links](https://wiki.archlinux.org/) para ter uma ideia melhor de como isto é feito.
+Temos apenas uma simples porém ambiciosa filosofia, prezamos pelo minimalismo, simplicidade, clareza e frugalidade. Virtudes que humildemente espelhamos de organizações como http://suckless.org/ e https://www.archlinux.org/. 
+
+Você pode dar uma olhada [//nestes](https://bbs.archlinux.org/) [//links](https://wiki.archlinux.org/) para ter uma ideia melhor de como isto é feito.
 
 Caso queira se aprofundar melhor nestas filosofias, recomendamos algumas leituras que complementam este conceito.
 * [Filosofia Unix](https://pt.wikipedia.org/wiki/Filosofia_Unix)
@@ -36,15 +38,15 @@ Lembre-se de que se você não selecionou uma licença para qualquer fim que sej
 
 A licença [Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons) é recomendada para o propósito dessa organização. Não são recomendads licenças de código como MIT, BSD, GPL, e etc.
 
-Lembre-se também de respeitar e manter as licenças e direitos derivados de recursos que venha a utilizar. Não pretendemos inflingir **propositalmente** nenhum direito autoral e sempre que possível, prentedemos nos manter alinhados as [normas brasileiras de publicação e criação de conteúdo técnico](http://www.gazetadopovo.com.br/educacao/vida-na-universidade/pesquisa-e-tecnologia/regras-da-abnt-veja-as-normas-para-monografias-e-trabalhos-academicos-24m183ly0hqo75i0qrgiovpla). 
+Lembre-se também de respeitar e manter as licenças e direitos derivados de recursos que venha a utilizar. Não pretendemos inflingir **propositalmente** nenhum direito autoral e sempre que possível, pretendemos nos manter alinhados as [normas brasileiras de publicação e criação de conteúdo técnico](http://www.gazetadopovo.com.br/educacao/vida-na-universidade/pesquisa-e-tecnologia/regras-da-abnt-veja-as-normas-para-monografias-e-trabalhos-academicos-24m183ly0hqo75i0qrgiovpla). 
 
 Para tirar suas dúvidas em relação a licenças recomendamos [este FAQ](https://br.creativecommons.org/faq/) da CC.
 
 ## Objetivos específicos
 
-Uma maneira interessante de facilitar o acesso ao conhecimento é selecionar alguns livros importantes que estão em domínio público, e disponibilizar nos mais diversos formatos, inclusive, pela Web, como [neste exemplo](http://samypesse.gitbooks.io/how-to-create-an-operating-system/content/Chapter-1/index.html) utilizando o [GitBook](https://github.com/GitbookIO/gitbook).
+Uma maneira interessante de facilitar o acesso ao conhecimento é selecionar alguns livros importantes que estão em [domínio público](https://pt.wikipedia.org/wiki/Dom%C3%ADnio_p%C3%BAblico), e disponibilizar nos mais diversos formatos, inclusive, pela Web, como [neste exemplo](http://samypesse.gitbooks.io/how-to-create-an-operating-system/content/Chapter-1/index.html) utilizando o [GitBook](https://github.com/GitbookIO/gitbook).
 
-[Este](https://openlibrary.org/) é outro exemplo deste objetivo, fiel a causa Open Access que falaremos posteriormente, ainda neste documento, no entanto a Open Library disponbiliza material em inglês, não servindo primariamente ao propósito de inclusão de nossa filosofia. Ainda neste ponto, um outro objetivo, seria fazer a [tradução de conteúdo livre](https://github.com/micro-technologies/drive/blob/master/jack-andraka.md) em outro idioma.
+[Este aqui](https://openlibrary.org/) é outro exemplo deste objetivo, fiel a causa Open Access que falaremos posteriormente ainda neste documento. No entanto a Open Library disponibiliza em sua maioria, material em inglês, não servindo primariamente a missão do nosso projeto. Ainda neste ponto, um outro objetivo dentro do projeto, seria fazer a [tradução de conteúdo livre](https://github.com/micro-technologies/drive/blob/master/jack-andraka.md) em outro idioma para o português brasileiro.
 
 Tendencias que apoiamos:
 * [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
