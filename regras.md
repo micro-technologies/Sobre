@@ -43,6 +43,8 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/micro-technologi
 
 * Lembre-se, nem todos têm o mesmo conhecimento que você. Saiba respeitar a dificuldade do outro em aprender, afinal, tempos atrás, você também não sabia.
 
+* Evite ao máximo associar política partidária e/ou geopolítica independete da sua visão, queremos manter este lugar civilizado. 
+
 * Tenha paciência: nem todos estão aqui 24h para te ajudar; nem todos têm paciência para ajudar e nem todos querem ajudar.
 
 * Respeite para ser respeitado. Todos aqui no grupo têm os mesmos direitos, mesmos deveres.
@@ -55,7 +57,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/micro-technologi
 
 * Todos podem falar palavrão (não a vontis, usem o bom senso) caso sejam expressões de linguagem, usadas para se expressar, de boa fé e sem intuitos ofensivos.
 
-* O grupo é dedicado à troca de informações, portanto xingamentos gratuitos, palavras de baixo calão, ou que ofendam membros, e coisas do tipo, **NÃO** serão toleradas.
+* O grupo é dedicado à troca de informações, portanto xingamentos gratuitos, palavras de baixo calão, ou que ofendam membros, e coisas do tipo, **NÃO** serão toleradas. Isso incluí apelidos e ofensas políticas e.g petralha, bolsominion.
 
 > Leis Regentes
 
@@ -80,6 +82,8 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/micro-technologi
 * Nada de compartilhar coisas do "Tequimumdo", porque não têm graça, nem sobre Baidu ou essas coisas que usuário doméstico fica instalando no próprio computador.
 
 * Se seu post não tem nenhuma relação com o propósito do portal, ele será deletado.
+
+* Publicações referentes a política partidária e/ou geopolítica independete da sua visão, não serão tolerados.
 
 * Não ressuscitar tópicos antigos. 
    - Se o tópico que você leu é muito antigo e você tem uma duvida, CRIE um novo tópico. 
@@ -107,7 +111,6 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/micro-technologi
 
 * Links para outros grupos ou coisas do tipo são proibidos. Apenas links para outros grupos de áreas relacionadas (por exemplo eletrônica) serão permitidos, e caso seja feito um pedido para um dos moderadores.
 
-
 > Gato da Seriedade
 
 * A zoeira tem limites **SIM**. Quem disser que a zoeira não tem limites, vai pra rua na hora.
@@ -116,7 +119,6 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/micro-technologi
 
 * Quando o emoticon **(=^・ｪ・^=)** estiver no tópico, significa que a zoeira será muito mais limitada dentro, e que o tópico tem intenções sérias, e a moderação será mais rígida. Usuários podem usar o Gato da Seriedade, porém há um limite - levarão um puxão de orelha se usarem com frequência.
   
-
 > GitHub
 
 * **TODA** modificação por **NÃO ADMINISTRADORES** deverá ser feita em um **fork** e aplicada via **pull-request**. Se algum não-administrador fizer um commit direto sem a autorização de um administrador, eu irei rastreá-lo, caçá-lo, e colocá-lo num mural :smile:
