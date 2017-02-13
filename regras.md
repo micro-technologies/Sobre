@@ -83,7 +83,7 @@ Não deixe de visitar o link de nossa [Wiki](https://github.com/micro-technologi
 
 * Se seu post não tem nenhuma relação com o propósito do portal, ele será deletado.
 
-* Publicações referentes a política partidária e/ou geopolítica independete da sua visão, não serão tolerados.
+* Publicações referentes a política partidária e/ou geopolítica independete da sua visão, não serão tolerados. Se você possuí alguma dificuldade nisso, comece [vendo este vídeo.](https://www.youtube.com/watch?v=IfxewiOu9_k&list=PL7YBd-rwwKxptXTmA1CYbwziR6v5dx43o&index=9)
 
 * Não ressuscitar tópicos antigos. 
    - Se o tópico que você leu é muito antigo e você tem uma duvida, CRIE um novo tópico. 
