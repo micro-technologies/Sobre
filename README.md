@@ -31,11 +31,15 @@ Pessoas contribuem com valores, e um projeto sem pessoas, por mais bem estrutura
 
 ### Regras
 
+Ao promover qualquer tipo de interação com este portal, o usuário automaticamente concorda ter lido e estar ciêntes de todas as regras.
+
 Temos uma seção específica para as regras, você pode conferir [clicando aqui.](https://github.com/micro-technologies/sobre/blob/master/regras.md)
 
 ### Convenções
 
-...
+O GitHub possuí um excelente sistemas de Cards, e usaremos ele.
+
+Se você deseja propor alguma melhora para o Portal Micro Technologies, ou para os projetos internos, antes de usar o issue, procure dar uma olhada na [páginas de projetos.](https://github.com/orgs/micro-technologies/projects)
 
 ### Dicas
 
