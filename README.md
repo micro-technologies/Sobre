@@ -20,11 +20,14 @@ Temos apenas uma simples porém ambiciosa filosofia, prezamos pelo minimalismo, 
 Caso queira se aprofundar melhor nestas filosofias, recomendamos algumas leituras que complementam este conceito.
 * [Filosofia Unix](https://pt.wikipedia.org/wiki/Filosofia_Unix)
 * [KISS](https://pt.wikipedia.org/wiki/Keep_It_Simple)
+* [The Arch Way](https://wiki.archlinux.org/index.php/The_Arch_Way_(Portugu%C3%AAs))
 * [Navalha de Occam](https://pt.wikipedia.org/wiki/Navalha_de_Occam)
 
 Seguindo o princípio de clareza, apoiamos a escrita e distribuição de [guias e artigos, que visam facilitar o aprendizado de um conhecimento complexo de forma includente](https://github.com/Kuchiriel/install-archlinux), neste caso, sacrificando outros princípios pelo bem maior de agregar pessoas ao projeto, sendo o objetivo final o aperfeiçoamento das pessoas antes do aperfeiçoamento da tecnologia. 
 
 Pessoas contribuem com valores, e um projeto sem pessoas, por mais bem estruturado, é um projeto sem valor. O aperfeiçoamento do projeto é constante e depende apenas da dedicação e interesse de cada um.
+
+### Convenções
 
 ### Escolhendo uma licença apropriada
 
@@ -48,12 +51,15 @@ Tendencias que apoiamos:
 Causas que apoiamos:
 
 * [Software livre e de código aberto ou free and open source software (FOSS) em inglês](https://pt.wikipedia.org/wiki/Software_livre_e_de_c%C3%B3digo_aberto)
+* [Hardware livre ou open source hardware em inglês](https://pt.wikipedia.org/wiki/Hardware_livre)
 * [Acesso Aberto (AA) ou Open Access em inglês](https://pt.wikipedia.org/wiki/Acesso_aberto)
 
 Documentários recomendados
-*[The Internet’s Own Boy.]
-
-https://openlibrary.org/
+* [The Internet’s Own Boy](https://www.youtube.com/watch?v=rkxWLsyylUw)
 
 Inspirações
 * [Guerilla Open Access Manifesto](https://github.com/micro-technologies/drive/blob/master/guerilla-open-access-manifesto.md)
+
+Organicações aliadas
+* [DestructHub](https://github.com/DestructHub)
+* [Brain Labs](https://github.com/brain-labs)
