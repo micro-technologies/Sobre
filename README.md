@@ -80,6 +80,6 @@ Documentários recomendados
 Inspirações
 * [Guerilla Open Access Manifesto](https://github.com/micro-technologies/drive/blob/master/guerilla-open-access-manifesto.md)
 
-Organicações aliadas
+Organizações aliadas
 * [DestructHub](https://github.com/DestructHub)
 * [Brain Labs](https://github.com/brain-labs)
