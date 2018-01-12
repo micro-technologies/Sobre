@@ -49,7 +49,7 @@ Como Markdown será amplamente utilizado aqui, talvez seja uma boa ideia utiliza
 
 Lembre-se de que se você não selecionou uma licença para qualquer fim que seja, isso basicamente significa que as pessoas não estão permitidas de reproduzir, distribuir ou criar trabalhos derivados dos seus.
 
-A licença [Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons) é recomendada para o propósito dessa organização. Não são recomendadas licenças de código como MIT, BSD, GPL, e etc.
+A licença [Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons) ou [Unlicense](http://unlicense.org/) são recomendadas para o propósito dessa organização. Não são recomendadas licenças de código como MIT, BSD, GPL, e etc, salvo o fato de que a obra em questão seja um código.
 
 Lembre-se também de respeitar e manter as licenças e direitos derivados de recursos que venha a utilizar. Não pretendemos infringir **propositalmente** nenhum direito autoral e sempre que possível, pretendemos nos manter alinhados as [normas brasileiras de publicação e criação de conteúdo técnico](http://www.gazetadopovo.com.br/educacao/vida-na-universidade/pesquisa-e-tecnologia/regras-da-abnt-veja-as-normas-para-monografias-e-trabalhos-academicos-24m183ly0hqo75i0qrgiovpla). 
 
