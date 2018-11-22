@@ -2,9 +2,9 @@
 
 Seja bem vindo(a)!
 
-Em resumo a µTechnologies é empresa que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. A ideia é organizar, criar, apontar e manter conteudos tecnico-ciêntfícos para falantes de português brasileiro.
+Em resumo a µTech é uma empresa que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. A ideia é organizar, criar, apontar e manter conteúdos técnico-cientfícos para falantes de português brasileiro.
 
-Pretendemos cumprir este objetivo utilizando a plataforma do GitHub, pois torna possível unificar discussões, pessoas, e código em um só local, de forma que facilite a busca e a relacão entre esses.
+Pretendemos cumprir este objetivo utilizando a plataforma do GitHub, pois torna possível unificar discussões, pessoas, e código em um só local, de forma que facilite a busca e a relação entre esses.
 
 Alguns dos pontos fortes do GitHub neste objetivo são:
 
@@ -26,6 +26,15 @@ Caso queira se aprofundar melhor nestas filosofias, recomendamos algumas leitura
 * [Navalha de Occam](https://pt.wikipedia.org/wiki/Navalha_de_Occam)
 
 Também procuramos seguir a [metodologia de 12 fatores](https://12factor.net/pt_br/).
+
+Na era moderna, software é comumente entregue como um serviço: denominados web apps, ou software-como-serviço. A aplicação doze-fatores é uma metodologia para construir softwares-como-serviço que:
+
+Usam formatos declarativos para automatizar a configuração inicial, minimizar tempo e custo para novos desenvolvedores participarem do projeto;
+Tem um contrato claro com o sistema operacional que o suporta, oferecendo portabilidade máxima entre ambientes que o executem;
+São adequados para implantação em modernas plataformas em nuvem, evitando a necessidade por servidores e administração do sistema;
+Minimizam a divergência entre desenvolvimento e produção, permitindo a implantação contínua para máxima agilidade;
+E podem escalar sem significativas mudanças em ferramentas, arquiteturas, ou práticas de desenvolvimento.
+A metodologia doze-fatores pode ser aplicada a aplicações escritas em qualquer linguagem de programação, e que utilizem qualquer combinação de serviços de suportes (banco de dados, filas, cache de memória, etc).
 
 Seguindo o princípio de clareza, apoiamos a escrita e distribuição de  guias e artigos, que visam facilitar o aprendizado de um conhecimento complexo de forma includente, neste caso, sacrificando outros princípios pelo bem maior de agregar pessoas ao projeto, sendo o objetivo final o aperfeiçoamento das pessoas antes do aperfeiçoamento da tecnologia. 
 
