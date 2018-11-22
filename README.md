@@ -2,7 +2,7 @@
 
 Seja bem vindo(a)!
 
-Em resumo a µTechnologies é uma iniciativa sem fins lucrativos que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. A ideia é organizar, criar, apontar e manter conteudos tecnico-ciêntfícos para falantes de português brasileiro.
+Em resumo a µTechnologies é empresa que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. A ideia é organizar, criar, apontar e manter conteudos tecnico-ciêntfícos para falantes de português brasileiro.
 
 Pretendemos cumprir este objetivo utilizando a plataforma do GitHub, pois torna possível unificar discussões, pessoas, e código em um só local, de forma que facilite a busca e a relacão entre esses.
 
@@ -25,7 +25,9 @@ Caso queira se aprofundar melhor nestas filosofias, recomendamos algumas leitura
 * [The Arch Way](https://wiki.archlinux.org/index.php/The_Arch_Way_(Portugu%C3%AAs))
 * [Navalha de Occam](https://pt.wikipedia.org/wiki/Navalha_de_Occam)
 
-Seguindo o princípio de clareza, apoiamos a escrita e distribuição de [guias e artigos, que visam facilitar o aprendizado de um conhecimento complexo de forma includente](https://github.com/Kuchiriel/install-archlinux), neste caso, sacrificando outros princípios pelo bem maior de agregar pessoas ao projeto, sendo o objetivo final o aperfeiçoamento das pessoas antes do aperfeiçoamento da tecnologia. 
+Também procuramos seguir a [metodologia de 12 fatores](https://12factor.net/pt_br/).
+
+Seguindo o princípio de clareza, apoiamos a escrita e distribuição de  guias e artigos, que visam facilitar o aprendizado de um conhecimento complexo de forma includente, neste caso, sacrificando outros princípios pelo bem maior de agregar pessoas ao projeto, sendo o objetivo final o aperfeiçoamento das pessoas antes do aperfeiçoamento da tecnologia. 
 
 Pessoas contribuem com valores, e um projeto sem pessoas, por mais bem estruturado, é um projeto sem valor. O aperfeiçoamento do projeto é constante e depende apenas da dedicação e interesse de cada um.
 
@@ -39,31 +41,19 @@ Temos uma seção específica para as regras, você pode conferir [clicando aqui
 
 O GitHub possuí um excelente sistemas de Cards, e usaremos ele.
 
-Se você deseja propor alguma melhora para o Portal Micro Technologies, ou para os projetos internos, antes de usar o issue, procure dar uma olhada na [páginas de projetos.](https://github.com/orgs/micro-technologies/projects)
+Se você deseja propor alguma melhora para o Portal Micro Technologies, ou para os projetos internos, antes de usar o issue, procure dar uma olhada na [páginas de projetos.](https://github.com/orgs/micro-technologies/projects) (em construção)
 
 ### Dicas
 
-Como Markdown será amplamente utilizado aqui, talvez seja uma boa ideia utilizar um [editor colaborativo online de markdown com pré-visualização.](https://hackmd.io/) (ufa, achei que não ia parar de escrever)
+Como Markdown será amplamente utilizado aqui, talvez seja uma boa ideia utilizar um [editor colaborativo online de markdown com pré-visualização.](https://hackmd.io/), ou algum editor Desktop como [GhostWriter](https://wereturtle.github.io/ghostwriter/) por exemplo.
 
-### Escolhendo uma licença apropriada para seu projeto
+Serviços que prestamos:
 
-Lembre-se de que se você não selecionou uma licença para qualquer fim que seja, isso basicamente significa que as pessoas não estão permitidas de reproduzir, distribuir ou criar trabalhos derivados dos seus.
-
-A licença [Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons) ou [Unlicense](http://unlicense.org/) são recomendadas para o propósito dessa organização. Não são recomendadas licenças de código como MIT, BSD, GPL, e etc, salvo o fato de que a obra em questão seja um código.
-
-Lembre-se também de respeitar e manter as licenças e direitos derivados de recursos que venha a utilizar. Não pretendemos infringir **propositalmente** nenhum direito autoral e sempre que possível, pretendemos nos manter alinhados as [normas brasileiras de publicação e criação de conteúdo técnico](http://www.gazetadopovo.com.br/educacao/vida-na-universidade/pesquisa-e-tecnologia/regras-da-abnt-veja-as-normas-para-monografias-e-trabalhos-academicos-24m183ly0hqo75i0qrgiovpla). 
-
-Para tirar suas dúvidas em relação a licenças, recomendamos [este FAQ](https://br.creativecommons.org/faq/) da CC.
-
-## Objetivos específicos do portal
-
-Uma maneira interessante de facilitar o acesso ao conhecimento é selecionar alguns livros importantes que estão em [domínio público](https://pt.wikipedia.org/wiki/Dom%C3%ADnio_p%C3%BAblico), e disponibilizar nos mais diversos formatos, inclusive, pela Web, como [neste exemplo](http://samypesse.gitbooks.io/how-to-create-an-operating-system/content/Chapter-1/index.html) utilizando o [GitBook](https://github.com/GitbookIO/gitbook).
-
-[Este aqui](https://openlibrary.org/) é outro exemplo deste objetivo, fiel a causa Open Access que falaremos posteriormente ainda neste documento. 
-
-No entanto a Open Library disponibiliza majoritariamente material em inglês, não servindo primariamente a missão do nosso projeto. 
-
-Ainda neste ponto, um outro objetivo dentro do projeto, seria fazer a [tradução de conteúdo livre](https://github.com/micro-technologies/drive/blob/master/jack-andraka.md) em outro idioma para o português brasileiro.
+* [DevOps](https://vertigo.com.br/o-que-e-devops/)
+* [FullStack](https://www.devmedia.com.br/quem-quer-ser-um-programador-fullstack/38786)
+* [Redes de Computadores](http://www.alcidesmaya.com.br/blog/o-que-sao-redes-de-computadores/)
+* [Assistência Técnica em Hardware & Mobile](https://pt.wikipedia.org/wiki/Suporte_t%C3%A9cnico)
+* [Consultorias de TI](https://gaea.com.br/consultoria-de-ti-tire-aqui-todas-as-suas-duvidas/)
 
 Tendencias que apoiamos:
 * [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
