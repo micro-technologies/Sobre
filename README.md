@@ -4,7 +4,9 @@ Seja bem vindo(a)!
 
 A µTech é uma empresa que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. No que tange o social, nossa ideia é organizar, criar, apontar e manter conteúdos técnico-científicos para falantes de português brasileiro visando o melhoramento das pessoas.
 
-Somos uma pequena empresa de assistência técnica, infra-estrutura e desenvolvimento de softwares, residimos em Jacareí/SP, nossa missão e nossa paixão são as mesmas, resolver problemas ao mesmo tempo em que procuramos olhar sempre adiante, estando informados e atualizados com as últimas tecnologias com uma percepção visionária priorizando sempre o progresso e o melhoramento da humanidade como um todo, por meio da tecnologia e aprendizado.
+Somos uma pequena empresa de assistência técnica, infra-estrutura e desenvolvimento de softwares, residimos em Jacareí/SP. 
+
+Nossa missão e nossa paixão são as mesmas, resolver problemas ao mesmo tempo em que procuramos olhar sempre adiante, estando informados e atualizados com as últimas tecnologias com uma percepção visionária priorizando sempre o progresso e o melhoramento da humanidade como um todo, por meio da tecnologia e aprendizado.
 
 As micro e pequenas empresas representam 99,2% das empresas no Brasil, empregam 57,2% da força de trabalho por isso são imprescindíveis para a economia.
 
@@ -21,7 +23,7 @@ Alguns dos pontos fortes do GitHub neste objetivo são:
 A estrutura desta organização foi espelhada [neste excelente projeto.](http://frontendbr.com.br/)
 
 ## Filosofia
-Temos apenas uma simples porém ambiciosa filosofia, prezamos pelo minimalismo, simplicidade, clareza e frugalidade. Virtudes que humildemente espelhamos de organizações como http://suckless.org/ e https://www.archlinux.org/. 
+Temos apenas uma simples porém ambiciosa filosofia, prezamos pelo minimalismo e simplicidade. Virtudes que humildemente espelhamos de organizações como http://suckless.org/ e https://www.archlinux.org/. 
 
 Você pode dar uma olhada [//nestes](https://bbs.archlinux.org/) [//links](https://wiki.archlinux.org/) para ter uma ideia melhor de como isto é feito.
 
@@ -52,7 +54,7 @@ Pessoas contribuem com valores, e um projeto sem pessoas, por mais bem estrutura
 
 ### Regras
 
-Ao promover qualquer tipo de interação com este portal, o usuário automaticamente concorda ter lido e estar ciêntes de todas as regras.
+Ao promover qualquer tipo de interação com este portal, o usuário automaticamente concorda ter lido e estar cientes de todas as regras.
 
 Temos uma seção específica para as regras, você pode conferir [clicando aqui.](https://github.com/micro-technologies/sobre/blob/master/regras.md)
 
@@ -60,11 +62,11 @@ Temos uma seção específica para as regras, você pode conferir [clicando aqui
 
 O GitHub possuí um excelente sistemas de Cards, e usaremos ele.
 
-Se você deseja propor alguma melhora para o Portal Micro Technologies, ou para os projetos internos, antes de usar o issue, procure dar uma olhada na [páginas de projetos.](https://github.com/orgs/micro-technologies/projects) (em construção)
+Se você deseja propor alguma melhora para o Portal Micro Technologies, ou para os projetos internos, antes de usar o issue, procure dar uma olhada na [páginas de projetos.](https://github.com/orgs/micro-technologies/projects)
 
 ### Dicas
 
-Como Markdown será amplamente utilizado aqui, talvez seja uma boa ideia utilizar um [editor colaborativo online de markdown com pré-visualização.](https://hackmd.io/), ou algum editor Desktop como [GhostWriter](https://wereturtle.github.io/ghostwriter/) por exemplo.
+Como Markdown será amplamente utilizado aqui, talvez seja uma boa ideia utilizar um [editor colaborativo online de markdown com pré-visualização](https://hackmd.io/), ou algum editor Desktop como [GhostWriter](https://wereturtle.github.io/ghostwriter/) por exemplo.
 
 Serviços que prestamos:
 
