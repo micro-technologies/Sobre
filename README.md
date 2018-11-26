@@ -2,6 +2,8 @@
 
 Seja bem vindo(a)!
 
+Acesse nosso site! https://micro-technologies.github.io/
+
 A µTech é uma empresa que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. No que tange o social, nossa ideia é organizar, criar, apontar e manter conteúdos técnico-científicos para falantes de português brasileiro visando o melhoramento das pessoas.
 
 Somos uma pequena empresa de assistência técnica, infra-estrutura e desenvolvimento de softwares, residimos em Jacareí/SP. 
