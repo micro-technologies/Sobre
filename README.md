@@ -2,7 +2,11 @@
 
 Seja bem vindo(a)!
 
-Em resumo a µTech é uma empresa que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. A ideia é organizar, criar, apontar e manter conteúdos técnico-cientfícos para falantes de português brasileiro.
+A µTech é uma empresa que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. No que tange o social, nossa ideia é organizar, criar, apontar e manter conteúdos técnico-científicos para falantes de português brasileiro visando o melhoramento das pessoas.
+
+Somos uma pequena empresa de assistência técnica, infra-estrutura e desenvolvimento de softwares, residimos em Jacareí/SP, nossa missão e nossa paixão são as mesmas, resolver problemas ao mesmo tempo em que procuramos olhar sempre adiante, estando informados e atualizados com as últimas tecnologias com uma percepção visionária priorizando sempre o progresso e o melhoramento da humanidade como um todo, por meio da tecnologia e aprendizado.
+As micro e pequenas empresas representam 99,2% das empresas no Brasil, empregam 57,2% da força de trabalho por isso são imprescindíveis para a economia.
+Somos apenas um punhado de jovens sonhadores e pretendemos cumprir nosso objetivo tornando a informação acessível e organizada de forma útil para todos.
 
 Pretendemos cumprir este objetivo utilizando a plataforma do GitHub, pois torna possível unificar discussões, pessoas, e código em um só local, de forma que facilite a busca e a relação entre esses.
 
@@ -30,10 +34,14 @@ Também procuramos seguir a [metodologia de 12 fatores](https://12factor.net/pt_
 Na era moderna, software é comumente entregue como um serviço: denominados web apps, ou software-como-serviço. A aplicação doze-fatores é uma metodologia para construir softwares-como-serviço que:
 
 Usam formatos declarativos para automatizar a configuração inicial, minimizar tempo e custo para novos desenvolvedores participarem do projeto;
+
 Tem um contrato claro com o sistema operacional que o suporta, oferecendo portabilidade máxima entre ambientes que o executem;
+
 São adequados para implantação em modernas plataformas em nuvem, evitando a necessidade por servidores e administração do sistema;
+
 Minimizam a divergência entre desenvolvimento e produção, permitindo a implantação contínua para máxima agilidade;
 E podem escalar sem significativas mudanças em ferramentas, arquiteturas, ou práticas de desenvolvimento.
+
 A metodologia doze-fatores pode ser aplicada a aplicações escritas em qualquer linguagem de programação, e que utilizem qualquer combinação de serviços de suportes (banco de dados, filas, cache de memória, etc).
 
 Seguindo o princípio de clareza, apoiamos a escrita e distribuição de  guias e artigos, que visam facilitar o aprendizado de um conhecimento complexo de forma includente, neste caso, sacrificando outros princípios pelo bem maior de agregar pessoas ao projeto, sendo o objetivo final o aperfeiçoamento das pessoas antes do aperfeiçoamento da tecnologia. 
