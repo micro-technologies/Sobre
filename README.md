@@ -5,7 +5,9 @@ Seja bem vindo(a)!
 A µTech é uma empresa que visa incentivar o aprendizado e sínteses nos mais diversos assuntos, em especial aqueles relacionados à tecnologia. No que tange o social, nossa ideia é organizar, criar, apontar e manter conteúdos técnico-científicos para falantes de português brasileiro visando o melhoramento das pessoas.
 
 Somos uma pequena empresa de assistência técnica, infra-estrutura e desenvolvimento de softwares, residimos em Jacareí/SP, nossa missão e nossa paixão são as mesmas, resolver problemas ao mesmo tempo em que procuramos olhar sempre adiante, estando informados e atualizados com as últimas tecnologias com uma percepção visionária priorizando sempre o progresso e o melhoramento da humanidade como um todo, por meio da tecnologia e aprendizado.
+
 As micro e pequenas empresas representam 99,2% das empresas no Brasil, empregam 57,2% da força de trabalho por isso são imprescindíveis para a economia.
+
 Somos apenas um punhado de jovens sonhadores e pretendemos cumprir nosso objetivo tornando a informação acessível e organizada de forma útil para todos.
 
 Pretendemos cumprir este objetivo utilizando a plataforma do GitHub, pois torna possível unificar discussões, pessoas, e código em um só local, de forma que facilite a busca e a relação entre esses.
